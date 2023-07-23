@@ -13,7 +13,7 @@ const Banner = () => {
           <h1 className='text-[55px] font-bold leading-[0.8] 1g:text-[110px]'>
             JAYANTH <span>NUGGU</span>
           </h1>
-          <div className='md-6 text-[36px] lg:text-[40px] font-secondary font-semibold uppercase leading-[1]'>
+          <div className='mb-6 text-[36px] lg:text-[40px] font-secondary font-semibold uppercase leading-[1]'>
             <span className='text-white mr-2'>I am a </span>
             <TypeAnimation
               sequence={[
