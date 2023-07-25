@@ -13,7 +13,7 @@ const About = () => {
   <section id='about' className='section'>
     <div className='container mx-auto'>
       <div className='flex flex-col gap-y-10 lg:flex-row lg:items-center lg:gap-x-20 lg:gap-y-0 h-screen'>
-        <div className='flex-1 text-[50px] text-gradient text-center'>ABOUT <spam className=''>ME</spam></div>
+        <div className='flex-1 text-[50px] text-gradient text-center'>ABOUT <span className=''>ME</span></div>
         <div className='flex-1'>
           {/* <h2>About Me</h2> */}
           <h3 className='h3 mb-4'>
