@@ -1,14 +1,14 @@
 import React from 'react';
-import { inView } from 'framer-motion';
+// import { inView } from 'framer-motion';
 
 import CountUp from 'react-countup';
-import { useInView } from 'react-intersection-observer';
+// import { useInView } from 'react-intersection-observer';
 
 const About = () => {
-  const [ref,inView] = useInView(
-    {
-      threshold: 0.5,
-    });
+  // const [ref,inView] = useInView(
+  //   {
+  //     threshold: 0.5,
+  //   });
   return (
   <section id='about' className='section'>
     <div className='container mx-auto'>
