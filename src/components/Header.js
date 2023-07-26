@@ -10,7 +10,7 @@ const Header = () => {
           {/* <img src={Logo} alt=''/> */}
           <h2 className='text-indigo-50 text-[30px] font-bold'>JAYANTH NUGGU</h2>
         </a>
-        <button className='btn btn-sm'>Contact Me</button>
+        <button to='contact' className='btn btn-sm'>Contact Me</button>
       </div>
     </div>
   </header>;

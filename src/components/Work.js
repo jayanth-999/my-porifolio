@@ -6,7 +6,7 @@ const Work = () => {
   <section id='work' className='section'>
     <div className='container mx-auto'>
       <div className='flex flex-col lg:flex-row gap-x-10 '>
-        <div className='flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0'>
+        <div className='flex-1 flex flex-col gap-y-8 mb-10 lg:mb-0'>
           
           <div>
             <h2 className='h2 leading-tight text-accent'>
@@ -31,7 +31,7 @@ const Work = () => {
           </div>
         </div>
     
-      <div className='flex-1 flex flex-col gap-y-10'>
+      <div className='flex-1 flex flex-col gap-y-5 lg:gap-y-2.5'>
         <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
           <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img 

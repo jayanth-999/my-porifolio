@@ -35,14 +35,14 @@ const Banner = () => {
             I particularly enjoy working collaboratively with people.
           </p>
           <div className='flex max-w-max gap-x-6 items-center mb-6 mx-auto lg:mx-0'>
-            <button className='btn btn-lg'>Contact Me</button>
+            <button to='contact' activeClass='active' className='btn btn-lg'>Contact Me</button>
             <a href='#' className='text-gradient btn-link'>
               My Portifolio
             </a>
           </div>
           <div className='flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 '>
-            <a href='#'><FaGithub/></a>
-            <a href='#'><FaLinkedin/></a>
+            <a href='https://github.com/jayanth-999'><FaGithub/></a>
+            <a href='https://www.linkedin.com/in/jayanth-nuggu-0a1720102/'><FaLinkedin/></a>
           </div>
         </div>
         <div>

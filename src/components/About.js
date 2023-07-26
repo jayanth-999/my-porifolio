@@ -19,7 +19,7 @@ const About = () => {
           <h3 className='h3 mb-4'>
             I am Programmer Analyst at Cognizant working on a health care project as a DevSecOps Engineer parllaly  taking an internship in Skill-lync on full-stack project
           </h3>
-          <p className='mb-6'>I am currently working with Devops tools,React and Python.I am currenty learning gitops and gitpages </p>
+          <p className='mb-6'>I am currently working with Devops tools,React and Python.I am currenty learning gitops and gitpages.i have completed my azure certification</p>
           <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
           <div>
               <div className='text-[40px] font-tertiary text-gradient mb-2'>
