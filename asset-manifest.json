@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-porifolio/static/css/main.db0d717d.css",
-    "main.js": "/my-porifolio/static/js/main.b46d7eb5.js",
+    "main.css": "/my-porifolio/static/css/main.c8c490cb.css",
+    "main.js": "/my-porifolio/static/js/main.f64f7784.js",
     "static/js/787.694af632.chunk.js": "/my-porifolio/static/js/787.694af632.chunk.js",
     "static/media/site-bg.jpg": "/my-porifolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/project1.png": "/my-porifolio/static/media/project1.3aa49a3201d1c2163a20.png",
     "static/media/avatar.jpg": "/my-porifolio/static/media/avatar.8fccd45ac739035daecb.jpg",
     "index.html": "/my-porifolio/index.html",
-    "main.db0d717d.css.map": "/my-porifolio/static/css/main.db0d717d.css.map",
-    "main.b46d7eb5.js.map": "/my-porifolio/static/js/main.b46d7eb5.js.map",
+    "main.c8c490cb.css.map": "/my-porifolio/static/css/main.c8c490cb.css.map",
+    "main.f64f7784.js.map": "/my-porifolio/static/js/main.f64f7784.js.map",
     "787.694af632.chunk.js.map": "/my-porifolio/static/js/787.694af632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db0d717d.css",
-    "static/js/main.b46d7eb5.js"
+    "static/css/main.c8c490cb.css",
+    "static/js/main.f64f7784.js"
   ]
 }
