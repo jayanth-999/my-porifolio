@@ -11,7 +11,7 @@ const Header = () => {
           {/* <img src={Logo} alt=''/> */}
           <h2 className='text-indigo-50 text-[30px] font-bold'>JAYANTH NUGGU</h2>
         </a>
-        <Link to='contact' className='btn btn-sm '>Contact Me</Link>
+        <Link to='contact' className='btn btn-sm pt-3'>Contact Me</Link>
       </div>
     </div>
   </header>;

@@ -1,5 +1,7 @@
 import React from 'react';
-import Img1 from '../assets/project1.png'
+import Myportifolio from '../assets/project1.png'
+import AmazonClone from '../assets/amzonclone.png'
+import { FaGithub } from 'react-icons/fa';
 
 const Work = () => {
   return (
@@ -20,7 +22,7 @@ const Work = () => {
           </div>
           <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
-            <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt=''/>
+            <img className='group-hover:scale-125 transition-all duration-500' src={Myportifolio} alt=''/>
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
               <span className='text-gradient'>UI/UX Design</span>
             </div> 
@@ -36,14 +38,17 @@ const Work = () => {
           <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img 
               className='group-hover:scale-125 transition-all duration-500 '   
-              src={Img1}  
+              src={AmazonClone}  
               alt='' 
             />
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
-              <span className='text-gradient'>UI/UX Design</span>
+              <span className='text-gradient'>React</span>
             </div> 
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
-              <span className='text-3x1 text-white'>MY PORTIFOLIO</span>
+              <span className='text-3x1 text-white'>AMAZON CLONE APP</span>
+            </div>
+            <div className='absolute -bottom-full left-12 group-hover:bottom-7 transition-all duration-1100 z-50'>
+              <a href='https://github.com/jayanth-999/amazon-clone-app' className='text-3x1'><FaGithub/></a>
             </div>
         </div>
 
@@ -52,7 +57,7 @@ const Work = () => {
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img 
               className='group-hover:scale-125 transition-all duration-500'   
-              src={Img1}  
+              src={Myportifolio}  
               alt=''  
             />
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
