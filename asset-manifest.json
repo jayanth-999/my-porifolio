@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/my-porifolio/static/css/main.c8c490cb.css",
-    "main.js": "/my-porifolio/static/js/main.f64f7784.js",
+    "main.css": "/my-porifolio/static/css/main.f54cec9f.css",
+    "main.js": "/my-porifolio/static/js/main.57860acf.js",
     "static/js/787.694af632.chunk.js": "/my-porifolio/static/js/787.694af632.chunk.js",
+    "static/media/amzonclone.png": "/my-porifolio/static/media/amzonclone.7bbaba27908eac2a6d8f.png",
     "static/media/site-bg.jpg": "/my-porifolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/project1.png": "/my-porifolio/static/media/project1.3aa49a3201d1c2163a20.png",
     "static/media/avatar.jpg": "/my-porifolio/static/media/avatar.8fccd45ac739035daecb.jpg",
     "index.html": "/my-porifolio/index.html",
-    "main.c8c490cb.css.map": "/my-porifolio/static/css/main.c8c490cb.css.map",
-    "main.f64f7784.js.map": "/my-porifolio/static/js/main.f64f7784.js.map",
+    "main.f54cec9f.css.map": "/my-porifolio/static/css/main.f54cec9f.css.map",
+    "main.57860acf.js.map": "/my-porifolio/static/js/main.57860acf.js.map",
     "787.694af632.chunk.js.map": "/my-porifolio/static/js/787.694af632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8c490cb.css",
-    "static/js/main.f64f7784.js"
+    "static/css/main.f54cec9f.css",
+    "static/js/main.57860acf.js"
   ]
 }
