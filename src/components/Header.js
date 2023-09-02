@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
+import { Link } from 'react-scroll';
 
 
 const Header = () => {
@@ -10,7 +11,7 @@ const Header = () => {
           {/* <img src={Logo} alt=''/> */}
           <h2 className='text-indigo-50 text-[30px] font-bold'>JAYANTH NUGGU</h2>
         </a>
-        <button to='contact' className='btn btn-sm'>Contact Me</button>
+        <Link to='contact' className='btn btn-sm '>Contact Me</Link>
       </div>
     </div>
   </header>;

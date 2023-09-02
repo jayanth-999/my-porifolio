@@ -3,6 +3,7 @@ import React from 'react';
 import Image from '../assets/avatar.jpg';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { TypeAnimation } from 'react-type-animation';
+import { Link,Button } from 'react-scroll';
 
 
 const Banner = () => {
@@ -35,7 +36,7 @@ const Banner = () => {
             I particularly enjoy working collaboratively with people.
           </p>
           <div className='flex max-w-max gap-x-6 items-center mb-6 mx-auto lg:mx-0'>
-            <button to='contact' activeClass='active' className='btn btn-lg'>Contact Me</button>
+            <Link to='contact' activeClass='active' className='btn btn-lg '>Contact Me</Link>
             <a href='#' className='text-gradient btn-link'>
               My Portifolio
             </a>
