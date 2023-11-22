@@ -24,7 +24,7 @@ const Work = () => {
             <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
             <img className='group-hover:scale-125 transition-all duration-500' src={Myportifolio} alt=''/>
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transition-all duration-500 z-50 '>
-              <span className='text-gradient'>UI/UX Design</span>
+              <span className='text-gradient'>UI/UX Designer</span>
             </div> 
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50 '>
               <span className='text-3x1 text-white'>MY PORTIFOLIO</span>
